@@ -1,7 +1,7 @@
-# {project title} ✨
+# Enigma Machine Rotor Crypto ✨
 
 ### Description
-{mini project description goes here...}
+Analyse and design the enigma machine. Try fabricating the machine or implement the enigma machine using code.
 
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
